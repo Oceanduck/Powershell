@@ -1,2 +1,2 @@
-Get-Host > ./hostdetails.txt
-Get-Content ./hostdetails
+Get-Host > .\hostdetails.txt
+Get-Content .\hostdetails.txt
